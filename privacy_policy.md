@@ -32,11 +32,11 @@ Your NAME, EMAIL. METADATA, and DATA ABOUT YOUR PLANTS are used to enable usage 
 
 Greenwitch does not sell or otherwise distribute your data for a profit, but we do provide your data to various services and systems where required to fulfill our contract to you. The list of services that may receive some or all of the above data are as follows:
 
-- PostHog, for analytics, error tracking, and performance metrics
-- Supabase, for account creation, data storage, and certain other features like push notifications
-- OneSignal, for push notifications and other communication, including email
-- Google, when downloading the app from the Play Store, or utilizing on an Android phone
-- Cloudflare, for data hosting, security, and load balancing purposes
+- PostHog, for analytics, error tracking, and performance metrics https://posthog.com/privacy
+- Supabase, for account creation, data storage, and certain other features like push notifications https://supabase.com/privacy
+- OneSignal, for push notifications and other communication, including email https://onesignal.com/privacy_policy
+- Google, when downloading the app from the Play Store, or utilizing on an Android phone https://policies.google.com/privacy?hl=en-US
+- Cloudflare, for data hosting, security, and load balancing purposes https://www.cloudflare.com/privacypolicy/
 
 We may disclose personal information to government authorities or other third-parties if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with a subpoena, court order or similar legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of the site, app or the public, (d) protect against legal liability, (e) to investigate fraud or other unlawful activity, or (f) or as otherwise required or permitted by law.
 
