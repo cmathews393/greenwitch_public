@@ -43,6 +43,8 @@ We may disclose personal information to government authorities or other third-pa
 
 The site and app are hosted in the United States, and all data is store and processed within the United States. 
 
+We take reasonable measures to protect your personal data, including using encryption and access controls. We retain your data only as long as necessary to fulfill the purposes outlined in this policy or as required by law. If we make significant changes to this Privacy Policy, we will notify users via email or a notice on our website.
+
 
 If you have any concerns or questions about how we use your data or the destruction of said data, upon account termination or where otherwise required or permitted by law, please contact privacy@catastrophesoftware.com
 
